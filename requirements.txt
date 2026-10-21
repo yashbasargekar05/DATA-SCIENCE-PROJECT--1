@@ -1,0 +1,9 @@
+# Pinned to the exact versions this project was tested against
+# (see 01_analysis_pipeline.py and 02_streamlit_app.py).
+# Install with: pip install -r requirements.txt
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.8
+seaborn==0.13.2
+plotly==7.1.0
+streamlit==1.64.0
